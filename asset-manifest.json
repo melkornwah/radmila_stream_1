@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radmila_stream_1/static/css/main.e5c620b2.css",
+    "main.js": "/radmila_stream_1/static/js/main.0374fa54.js",
+    "static/js/787.e648936c.chunk.js": "/radmila_stream_1/static/js/787.e648936c.chunk.js",
+    "index.html": "/radmila_stream_1/index.html",
+    "main.e5c620b2.css.map": "/radmila_stream_1/static/css/main.e5c620b2.css.map",
+    "main.0374fa54.js.map": "/radmila_stream_1/static/js/main.0374fa54.js.map",
+    "787.e648936c.chunk.js.map": "/radmila_stream_1/static/js/787.e648936c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c620b2.css",
+    "static/js/main.0374fa54.js"
+  ]
+}
