@@ -28,7 +28,7 @@ function App() {
         />
       </div>
       <div className="stream_container">
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/Lc4p_XJq3jM" title="YouTube video player"
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/2g-0sA13Sp8" title="YouTube video player"
           frameBorder="0"
           allow="autoplay; gyroscope; web-share"
         />
@@ -52,7 +52,7 @@ function App() {
         />
       </div>
       <div className="stream_container">
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/m4f528w_Z7M" title="YouTube video player"
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/z_mlibCfgFI" title="YouTube video player"
           frameBorder="0"
           allow="autoplay; gyroscope; web-share"
         />
